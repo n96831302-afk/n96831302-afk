@@ -1,4 +1,4 @@
-# Hi there, I'm AFK 👋
+# Hi there, I'm KANG-YAO, SHIE (n96831302-afk) 👋
 
 I’m a student developer currently focusing on **C#, WinForms, data processing**, and research projects related to **Taiwan stock market data** and **Chinese metaphysics (BaZi, LiuYao)**.
 
